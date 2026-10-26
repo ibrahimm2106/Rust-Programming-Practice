@@ -1,0 +1,9 @@
+# Rust build files
+**/target/
+
+# Windows compiled files
+*.exe
+*.pdb
+
+# Temporary files
+*.tmp
